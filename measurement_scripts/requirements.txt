@@ -1,0 +1,12 @@
+# environment used for the measurement simulations (Python 3.11)
+numpy==2.4.6
+scipy==1.17.1
+h5py==3.16.0
+matplotlib==3.11.2
+qiskit==2.6.1
+qiskit-aer==0.18.0
+qiskit-ibm-runtime==0.51.0
+qiskit-addon-aqc-tensor==0.3.1
+quimb==1.15.0
+pytket==2.18.5
+pytket-qiskit==0.79.0
