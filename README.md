@@ -5,7 +5,7 @@ J. Aftergood, D. Guerci, J. Brunton, F. Zhang, T. Iadecola, P. P. Orth, C.-Z. Wa
 This repository contains the data shown in every figure of the paper, plus a script that regenerates each figure from that data.
 
 - Paper: *journal reference and DOI to be added*
-- Dataset DOI: *to be added*
+- Dataset DOI: [10.5281/zenodo.23887709](https://doi.org/10.5281/zenodo.23887709)
 
 ## Quick start
 
