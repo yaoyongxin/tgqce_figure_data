@@ -1,0 +1,27 @@
+{
+  "title": "Data and plotting scripts for \"Gutzwiller Quantum-Classical Embedding for Dynamics Simulations of Correlated Electron Systems\"",
+  "upload_type": "dataset",
+  "description": "<p>Data shown in all figures of the paper \"Gutzwiller Quantum-Classical Embedding for Dynamics Simulations of Correlated Electron Systems\", together with the scripts that regenerate the figures. Included are the time-dependent ghost Gutzwiller dynamics of the Bethe-lattice Hubbard model after interaction quenches with exact and AVQDS-propagated embedding states, the single-qubit (B = 1) simulations and IBM quantum hardware results, and the simulated measurement of the embedding observables under a trapped-ion noise model, with the raw results and scripts of these measurement simulations. See README.md for the description of every file.</p>",
+  "creators": [
+    {"name": "Aftergood, Joshua", "affiliation": "Ames National Laboratory"},
+    {"name": "Guerci, Daniele", "affiliation": "Center for Computational Quantum Physics, Flatiron Institute"},
+    {"name": "Brunton, Jacob", "affiliation": "Iowa State University"},
+    {"name": "Zhang, Feng", "affiliation": "Ames National Laboratory"},
+    {"name": "Iadecola, Thomas", "affiliation": "Ames National Laboratory"},
+    {"name": "Orth, Peter P.", "affiliation": "Ames National Laboratory"},
+    {"name": "Wang, Cai-Zhuang", "affiliation": "Ames National Laboratory"},
+    {"name": "Lanatà, Nicola", "affiliation": "Rochester Institute of Technology"},
+    {"name": "Yao, Yong-Xin", "affiliation": "Ames National Laboratory"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "quantum embedding",
+    "ghost Gutzwiller approximation",
+    "nonequilibrium dynamics",
+    "Hubbard model",
+    "quantum computing",
+    "adaptive variational quantum dynamics",
+    "hybrid quantum-classical algorithms"
+  ],
+  "notes": "Data files are licensed under CC BY 4.0 and scripts under the MIT License (see LICENSE)."
+}
