@@ -88,7 +88,8 @@ axes[0, 2].legend(loc='upper left', fontsize='small')
 axes[1, 2].sharey(axes[0, 2])
 
 for ax, lab in zip(axes.flat, 'abcdef'):
-    ax.text(-0.15, 0.98, f'({lab})', transform=ax.transAxes, ha='left', va='bottom')
+    ax.annotate(f'({lab})', xy=(0, 1), xycoords='axes fraction', xytext=(-32, 2), textcoords='offset points',
+                ha='left', va='bottom')
 
 plt.tight_layout()
 fig.savefig(HERE / 'Fig3.pdf', bbox_inches='tight')
