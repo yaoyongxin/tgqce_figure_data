@@ -65,7 +65,7 @@ The csv files have one header line; their first column is t and their second is 
 
 ### `fig3_B357_avqds/` (Fig. 3, B = 3, 5, 7: exact embedding dynamics versus AVQDS)
 
-Two quenches are shown: U: 0.05 → 1.5 (weak) and 0.05 → 2.5 (strong). The DMFT reference is for U: 0 → 1.5 and 0 → 2.5.
+Two quenches are shown: U: 0.05 → 1.5 (weak) and 0.05 → 2.5 (strong). The DMFT reference is for U: 0 → 1.5 and 0 → 2.5. For each B, both quenches start from the same AVQITE circuit for the initial embedding state.
 
 | file | columns | content |
 |---|---|---|
